@@ -1,0 +1,6 @@
+#!/bin/sh
+
+for a in *png
+do
+resize-into-icon-frame $a reframed/$a
+done

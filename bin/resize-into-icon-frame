@@ -1,0 +1,33 @@
+#!/bin/bash
+
+input_file="$1"
+output_file="$2"
+
+temp_file=$(mktemp -t ./temp-)
+rm "$temp_file"
+temp_file="${temp_file}.png"
+
+canvas_file=$(mktemp -t ./temp-)
+rm "$canvas_file"
+canvas_file="${canvas_file}.png"
+
+# Resize the image to 825x825
+convert "$input_file" -resize 825x825 "$temp_file"
+
+# Create the 1024x1024 canvas
+convert -size 1024x1024 xc:none "$canvas_file"
+
+# Calculate the offset for centering
+offset_x=$(( (1024 - 825) / 2 ))
+offset_y=$(( (1024 - 825) / 2 ))
+
+# Composite the resized image onto the canvas
+composite -colorspace sRGB -geometry "+$offset_x+$offset_y" "$temp_file" "$canvas_file" "$output_file"
+
+# Add drop shadow to the composited image
+convert "$output_file" \( +clone -background none -shadow 100x10+0+10 \) +swap -background none -layers merge +repage "$output_file"
+
+# Remove the temporary files
+echo "Resized and composited $input_file"
+
+

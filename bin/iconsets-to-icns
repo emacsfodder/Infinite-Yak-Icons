@@ -1,0 +1,6 @@
+#!/bin/sh
+
+for a in *.iconset
+do
+iconutil -c icns $a
+done

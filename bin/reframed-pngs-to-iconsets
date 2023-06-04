@@ -1,0 +1,9 @@
+#!/bin/sh
+
+for a in png/reframed/*png
+do
+n=$(basename $a)
+iconset=${n/.png/}.iconset
+echo "${iconset}"
+png-to-iconset.sh $a ${iconset}
+done
