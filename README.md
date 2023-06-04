@@ -4,21 +4,18 @@ In the sprit of Gnu, furry animals, infinite customization and eternal yak shavi
 
 This is the Infinite Yak icons collection for Emacs.
 
-### Tech details...
+
+# Install
+
+Git clone this repo / or download the .zip from github to install.
+
+# Macos
 
 .PNG originals and iconsets available here, along with macOS .icns files.
 
 To use one, copy it to `Emacs.app/Content/Resources/Emacs.icns` and `touch
 Emacs.app`. You will need to close Emacs, and update your Dock icon (drag it
 from `/Applications/Emacs.app`) to see the change.
-
-# Install
-
-Git clone this repo / or download the .zip from github to install.
-
-# Licence
-
-GNU GPLv3.
 
 ### Windows and Linux
 
@@ -31,6 +28,10 @@ convert iconsets/infinity-yak-alaka.iconset/icon_128x128.png  Emacs.ico
 ```
 
 You will need to assign the `.ico` to your Emacs executable.
+
+## Licence
+
+GNU GPLv3.
 
 # Icons...
 
