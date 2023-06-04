@@ -14,29 +14,29 @@ Licence, GPLv3.
 
 # Icons...
 
-![](png/infinity-yak-adacious.png)
+![](iconsets/infinity-yak-adacious.iconset/icon_512x512.png)
 
-![](png/infinity-yak-akadabra.png)
+![](iconsets/infinity-yak-akadabra.iconset/icon_512x512.png)
 
-![](png/infinity-yak-alaka.png)
+![](iconsets/infinity-yak-alaka.iconset/icon_512x512.png)
 
-![](png/infinity-yak-amakarena.png)
+![](iconsets/infinity-yak-amakarena.iconset/icon_512x512.png)
 
-![](png/infinity-yak-andwhite.png)
+![](iconsets/infinity-yak-andwhite.iconset/icon_512x512.png)
 
-![](png/infinity-yak-interstellar.png)
+![](iconsets/infinity-yak-interstellar.iconset/icon_512x512.png)
 
-![](png/infinity-yak-journey.png)
+![](iconsets/infinity-yak-journey.iconset/icon_512x512.png)
 
-![](png/infinity-yak-macaroni.png)
+![](iconsets/infinity-yak-macaroni.iconset/icon_512x512.png)
 
-![](png/infinity-yak-nirvana.png)
+![](iconsets/infinity-yak-nirvana.iconset/icon_512x512.png)
 
-![](png/infinity-yak-noir.png)
+![](iconsets/infinity-yak-noir.iconset/icon_512x512.png)
 
-![](png/infinity-yak-onfire.png)
+![](iconsets/infinity-yak-onfire.iconset/icon_512x512.png)
 
-![](png/infinity-yak-onthewater.png)
+![](iconsets/infinity-yak-onthewater.iconset/icon_512x512.png)
 
-![](png/infinity-yak-topia.png)
+![](iconsets/infinity-yak-topia.iconset/icon_512x512.png)
 
