@@ -26,13 +26,13 @@ This is the Infinite Yak icons collection for Emacs.
 
 ![](iconsets/infinity-yak-andwhite.iconset/icon_512x512.png)
 
-### Infinity yakinterstellar
+### Infinity yakastra
 
-![](iconsets/infinity-yak-interstellar.iconset/icon_512x512.png)
+![](iconsets/infinity-yak-astra.iconset/icon_512x512.png)
 
-### Infinity yakjourney
+### Infinity yakshack
 
-![](iconsets/infinity-yak-journey.iconset/icon_512x512.png)
+![](iconsets/infinity-yak-shack.iconset/icon_512x512.png)
 
 ### Infinity yaksatori
 
