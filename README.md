@@ -46,9 +46,9 @@ You will need to assign the `.ico` to your Emacs executable.
 
 ![](iconsets/infinity-yak-alaka.iconset/icon_512x512.png)
 
-### Infinity yakamakarena
+### Infinity yakamoto
 
-![](iconsets/infinity-yak-amakarena.iconset/icon_512x512.png)
+![](iconsets/infinity-yak-moto.iconset/icon_512x512.png)
 
 ### Infinity yakandwhite
 
@@ -62,13 +62,13 @@ You will need to assign the `.ico` to your Emacs executable.
 
 ![](iconsets/infinity-yak-journey.iconset/icon_512x512.png)
 
-### Infinity yakmacaroni
+### Infinity yaksatori
 
-![](iconsets/infinity-yak-macaroni.iconset/icon_512x512.png)
+![](iconsets/infinity-yak-satori.iconset/icon_512x512.png)
 
-### Infinity yaknirvana
+### Infinity yakamura
 
-![](iconsets/infinity-yak-nirvana.iconset/icon_512x512.png)
+![](iconsets/infinity-yak-amura.iconset/icon_512x512.png)
 
 ### Infinity yaknoir
 
