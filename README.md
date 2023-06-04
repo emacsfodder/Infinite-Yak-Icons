@@ -8,12 +8,17 @@ This is the Infinite Yak icons collection for Emacs.
 
 .PNG originals and iconsets available here, along with macOS .icns files.
 
-To use one, you can copy it to Emacs.app/Content/Resources/Emacs.icns and `touch
-Emacs.app`. Finder may also need a re-launch.
+To use one, copy it to `Emacs.app/Content/Resources/Emacs.icns` and `touch
+Emacs.app`. You will need to close Emacs, and update your Dock icon (drag it
+from `/Applications/Emacs.app`) to see the change.
+
+# Install
 
 Git clone this repo / or download the .zip from github to install.
 
-Licence, GPLv3.
+# Licence
+
+GNU GPLv3.
 
 ### Windows and Linux
 
