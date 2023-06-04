@@ -63,7 +63,7 @@ This is the Infinite Yak icons collection for Emacs.
 
 Git clone this repo / or download the .zip from github to install.
 
-# Macos
+# macOS
 
 .PNG originals and iconsets available here, along with macOS .icns files.
 
