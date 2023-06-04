@@ -48,7 +48,7 @@ You will need to assign the `.ico` to your Emacs executable.
 
 ### Infinity yakamoto
 
-![](iconsets/infinity-yak-moto.iconset/icon_512x512.png)
+![](iconsets/infinity-yak-amoto.iconset/icon_512x512.png)
 
 ### Infinity yakandwhite
 
