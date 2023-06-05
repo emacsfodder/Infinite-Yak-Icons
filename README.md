@@ -6,6 +6,10 @@ This is the Infinite Yak icons collection for Emacs.
 
 # Icons...
 
+### Infinity yak
+
+![](iconsets/GoldenYak.iconset/icon_512x512.png)
+
 ### Infinity yakadacious
 
 ![](iconsets/infinity-yak-adacious.iconset/icon_512x512.png)
